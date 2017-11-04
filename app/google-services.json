@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1022239500693",
+    "firebase_url": "https://serwe-60882.firebaseio.com",
+    "project_id": "serwe-60882",
+    "storage_bucket": "serwe-60882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022239500693:android:a76286b53f406d15",
+        "android_client_info": {
+          "package_name": "com.serwe.serwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022239500693-4apf03oid9an5iqfeu28eeck7s9l48g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.serwe.serwe",
+            "certificate_hash": "de8286b768de94ba5a6ab7f49798a6c41df352e9"
+          }
+        },
+        {
+          "client_id": "1022239500693-tc1nlthine36auqk2souusl0dip25iqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVR5xnX3-UbxtHddTB2224NHoALi1Kaho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022239500693-tc1nlthine36auqk2souusl0dip25iqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

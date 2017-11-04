@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SERWE</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_empty">This field cannot be blank</string>
+    <string name="error_email">Please enter a valid email</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
