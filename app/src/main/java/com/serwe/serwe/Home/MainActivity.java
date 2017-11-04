@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
         userEmail = pref.getString("KEY_Email", "");
         Bitmap pic = StringToBitMap(userPic);
         //temp.setImageBitmap(pic);
+        //
         nav_user.setText(userName);
         nav_Email.setText(userEmail);
 
